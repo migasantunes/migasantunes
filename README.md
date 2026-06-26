@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Miguel Antunes 👋</h1>
 
-<h3 align="center">3rd year Software Engineering Bachelor Student @ University of Coimbra | Backend & Systems Enthusiast</h3>
+<h3 align="center">3rd Year Software Engineering Bachelor Student @ University of Coimbra | Backend & Systems Enthusiast</h3>
 
 <p align="center">
   Driven by curiosity and a hands-on approach to problem-solving. I've been passionate about programming since I was 8 years old, and I love diving deep into how systems work, from low-level architecture to distributed web services. 
