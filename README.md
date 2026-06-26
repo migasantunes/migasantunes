@@ -12,7 +12,7 @@
 
 - 🎓 Currently finishing my BSc in **Informatics Engineering** at the [University of Coimbra] (expected [Month/Year of graduation]).
 - ⚙️ **Focus:** I enjoy working on Backend development, Distributed Systems, and Object-Oriented Architecture. I refuse to back down from a complex bug.
-- 🌍 **Languages:** Native Portuguese, Fluent in English (C1) and French (C1).
+- 🌍 **Languages:** Native Portuguese, Fluent in English and French.
 - 🥁 **Beyond the screen:** Former competitive athlete, lead percussionist at a philharmonic orchestra, and I occasionally help out in civil construction. I know the value of hard work, discipline, and teamwork.
 
 ### 🚀 Tech Stack
