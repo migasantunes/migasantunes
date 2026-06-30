@@ -19,7 +19,7 @@
 
 *   **Languages:** Java, C, Python, C++, SQL, Assembly
 *   **Frameworks & Libraries:** Spring Framework (also worked a little with React & Node.js)
-*   **Tools & Infrastructure:** Git, Docker, Linux (Ubuntu), WebSockets, RMI, GNS3, VMware
+*   **Tools & Infrastructure:** Git, DevContainers, Linux (Ubuntu), WebSockets, RMI, GNS3, VMware
 *   **Concepts:** OOP, Data Structures, Distributed Systems, Compiler Design
 
 ### 🌱 Currently Working On
